@@ -1,0 +1,14 @@
+{
+  "mises1r33cj7aq9vmtnyd0jn949tgf5sxq47ca6cm50c": { "amt" : 14600000.00, "memo": "mises foundation"},
+  "mises19v0v2dqkencfkcnr85qge6raxxk0shcuk7zf05": { "amt" : 12000000.00, "memo": "early investor"},
+  "mises1cvq4082kasqw34fzjfsr65renwf6v2zh9k09t2": { "amt" : 18000000.00, "memo": "mises team"},
+  "mises1k8fk34hacugjpa4hxenmnnetygj52ajqkaflmp": { "amt" : 10000000.00,  "memo": "private investor"},
+  "mises1xrmeysnqvxph3myucfpumsm3843xze9ehv9rv2": { "amt" : 20000000.00,  "memo": "public investor"},
+  "mises1ctwuktz5vulhtttsu7e77qzcrhl26qgs8d3zw4": { "amt" : 15000000.00,  "memo": "community"},
+  "mises1jxvr50m9hlvzev5vp6wjwgzmm2lp2lpxu6en0l": { "amt" : 10000000.00,  "memo": "mises ecosystem"},
+
+  "mises16tgcj76dkv30he56upql5azxwz2t9x6973smcl": { "amt" :100000.00, "memo":  "the validator mises-e1"},
+  "mises1qgqmmnzv0erm67fd6qf7txflgnkk20rcdeqjxs": { "amt" : 100000.00,  "memo": "the validator mises-e2"},
+  "mises1em3ku7dhvwf2t0e6shhp6d87k4z8vnn5hv0p8z": { "amt" : 100000.00, "memo":  "the validator mises-w1"},
+  "mises1u5vg5ara2pcldeyrqh74us2ymda87ndk8x2aws": { "amt" : 100000.00,  "memo": "the validator mises-w2"}
+}
