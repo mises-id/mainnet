@@ -40,7 +40,7 @@ const (
 	misGenesisTotal     = 100000000
 	addressGenesisTotal = 11
 
-	timeGenesisString = "2022-03-21 23:00:00 -0000 UTC"
+	timeGenesisString = "2022-03-22 03:00:00 -0000 UTC"
 )
 
 // constants but can't use `const`

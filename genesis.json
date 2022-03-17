@@ -1,5 +1,5 @@
 {
-  "genesis_time": "2022-03-21T23:00:00Z",
+  "genesis_time": "2022-03-22T03:00:00Z",
   "chain_id": "mainnet",
   "initial_height": "1",
   "consensus_params": {
@@ -25,7 +25,7 @@
     "auth": {
       "params": {
         "max_memo_characters": "256",
-        "tx_sig_limit": "7",
+        "tx_sig_limit": "70",
         "tx_size_cost_per_byte": "10",
         "sig_verify_cost_ed25519": "590",
         "sig_verify_cost_secp256k1": "1000"
@@ -227,7 +227,7 @@
       ],
       "denom_metadata": [
         {
-          "description": "The native staking token of the Mises Network.",
+          "description": "The native staking and gov token of the Mises Network.",
           "denom_units": [
             {
               "denom": "umis",
@@ -597,14 +597,14 @@
     },
     "mint": {
       "minter": {
-        "inflation": "0.130000000000000000",
+        "inflation": "0.180000000000000000",
         "annual_provisions": "0.000000000000000000"
       },
       "params": {
         "mint_denom": "umis",
         "inflation_rate_change": "0.130000000000000000",
         "inflation_max": "0.200000000000000000",
-        "inflation_min": "0.070000000000000000",
+        "inflation_min": "0.100000000000000000",
         "goal_bonded": "0.340000000000000000",
         "blocks_per_year": "6311520",
         "inflation_limit_change": "-0.100000000000000000"
@@ -628,11 +628,11 @@
     "params": null,
     "slashing": {
       "params": {
-        "signed_blocks_window": "100",
-        "min_signed_per_window": "0.500000000000000000",
+        "signed_blocks_window": "10000",
+        "min_signed_per_window": "0.050000000000000000",
         "downtime_jail_duration": "600s",
-        "slash_fraction_double_sign": "0.050000000000000000",
-        "slash_fraction_downtime": "0.010000000000000000"
+        "slash_fraction_double_sign": "0.010000000000000000",
+        "slash_fraction_downtime": "0.000100000000000000"
       },
       "signing_infos": [],
       "missed_blocks": []
