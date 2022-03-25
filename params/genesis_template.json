@@ -1,5 +1,5 @@
 {
-  "genesis_time": "2022-03-22T03:00:00Z",
+  "genesis_time": "2022-03-25T03:00:00Z",
   "chain_id": "mainnet",
   "initial_height": "1",
   "consensus_params": {
